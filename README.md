@@ -5,7 +5,7 @@
 <br>
 
 > [!NOTE]
-> Questo repository personale (`anItalianGeek/digitML`) contiene il progetto didattico di gruppo sviluppato durante il triennio di Informatica per gli open-day scolastici. Sorgenti e documentazione del gruppo sono disponibili anche su [`paolomalgarin/DigitML`](https://github.com/paolomalgarin/DigitML).
+> **Archivio personale del progetto scolastico di gruppo.** Questo repository (`anItalianGeek/digitML`) è conservato come riferimento del lavoro svolto per gli open-day scolastici, senza sviluppo o manutenzione attivi da parte mia. Sorgenti e documentazione del gruppo sono disponibili anche su [`paolomalgarin/DigitML`](https://github.com/paolomalgarin/DigitML).
 > Il mio ruolo, riportato nella tabella dei contributori, è **Project manager**. La tabella attribuisce ai rispettivi compagni di squadra Machine Learning, API, app Android e web-app.
 
 # 🤝 Contributors
